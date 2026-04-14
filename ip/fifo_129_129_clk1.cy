@@ -400,7 +400,7 @@
         "OUTPUTDIR": [ { "value": "../../../../pcileech_screamer_m2.gen/sources_1/ip/fifo_129_129_clk1" } ],
         "SELECTEDSIMMODEL": [ { "value": "" } ],
         "SHAREDDIR": [ { "value": "." } ],
-        "SWVERSION": [ { "value": "2023.2" } ],
+        "SWVERSION": [ { "value": "2026.2" } ],
         "SYNTHESISFLOW": [ { "value": "OUT_OF_CONTEXT" } ]
       }
     },
